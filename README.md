@@ -1,4 +1,4 @@
-# Fund Me Hardhat Project
+# Smart Contract Lottery Hardhat Project
 
 <div id="top"></div>
 
