@@ -64,9 +64,9 @@ Make sure you have already installed Node.js in your device. In case you have, u
    ```sh
    git clone https://github.com/alvaro-8a/hardhat-smartcontract-lottery-fcc.git
    ```
-2. Install NPM packages
+2. Install YARN packages
    ```sh
-   npm install
+   yarn install
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
