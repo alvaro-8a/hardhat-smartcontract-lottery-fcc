@@ -10,6 +10,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Check the Smart Contract deployed on Rinkeby Network [here](https://rinkeby.etherscan.io/address/0xACF8a950bE8E4eAFc11F176a085d07D6211452A1#code)
+
 All the code was developed for learning purposes and is from [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&lis) by freeCodeCamp.org and Patrick Collins
 
 The project represents a smart contract for a fair raffle system. People can enter the raffle by paying 0.01 ETH.
